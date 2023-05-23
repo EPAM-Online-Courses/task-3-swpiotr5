@@ -1,3 +1,4 @@
+package efs.task.oop;
 public class Monsters {
     public static final Monster andariel = new Monster(10,70){
         @Override
