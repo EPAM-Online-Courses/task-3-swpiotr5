@@ -1,4 +1,5 @@
 package efs.task.oop;
+
 public class ExtraordinaryVillager extends Villager {
     public enum Skill{
         IDENTIFY("I will identify items for you at no charge."),
